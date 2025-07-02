@@ -1,16 +1,28 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/e692b6dd-2157-48ff-b884-b3fe7f1ea61e)
+<br><br>
+--- 
+# Hi 👋, I'm Anugya Mehrotra
 
-<!--
-**anugyamehrotra/anugyamehrotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Skills
+- 💻 Languages: JavaScript |  HTML5 | CSS | Node.js | Python 
+- 🔨 Developer Tools: VS Code | Replit | GitHub  | Arduino | Blender | Figma | MS Office (Word, Excel, Outlook, PowerPoint) | Google (Docs, Drive, Forms, Gmail)
+<br>
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,vscode,replit,github,arduino,blender,figma,windows,gmail)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<hr>
+
+### 🚀 Projects
+- 📚 **[eduPortal](https://github.com/anugyamehrotra/eduPortal)** – a revolutionary program designed to modernize communication for educational systems and organizations <br><br>
+ ![image](https://github.com/user-attachments/assets/7ff1b15f-adb2-4719-9f58-70f54400bb33)
+
+
+
+<hr>
+
+### 📫 Contact
+- 📧 [Email me](amehrotra.395@gmail.com)
+<hr>
+
