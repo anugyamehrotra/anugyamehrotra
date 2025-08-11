@@ -17,6 +17,9 @@
 ### 🚀 Projects
 - 📚 **[eduPortal](https://github.com/anugyamehrotra/eduPortal)** – a revolutionary program designed to modernize communication for educational systems and organizations <br><br>
  ![image](https://github.com/user-attachments/assets/7ff1b15f-adb2-4719-9f58-70f54400bb33)
+- 💻 **[NPHacks](https://nphacks.vercel.app/)** - **Join NP Hacks**! Build projects, join hackathons, and level up your coding skills with a supportive community.
+![image](<img width="441" height="248" alt="np_hacks_app" src="https://github.com/user-attachments/assets/e0588efb-da57-4bb9-a188-f45144dc8291" />) 
+
 
 
 
