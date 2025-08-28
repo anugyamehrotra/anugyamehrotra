@@ -8,7 +8,7 @@
 - 💻 Languages: JavaScript |  HTML5 | CSS | Node.js | Python 
 - 🔨 Developer Tools: VS Code | Replit | GitHub  | Arduino | Blender | Figma | MS Office (Word, Excel, Outlook, PowerPoint) | Google (Docs, Drive, Forms, Gmail)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,vscode,replit,github,arduino,blender,figma,windows,gmail)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,vscode,replit,github,arduino,blender,figma,windows)](https://skillicons.dev)
 
 ---
 
