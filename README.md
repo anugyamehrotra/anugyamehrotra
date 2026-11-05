@@ -1,4 +1,4 @@
 ``` 
 hello
 
-{cs @ uoft: "in/anugyamehrotra"}
+cs @ uoft: in/anugyamehrotra
